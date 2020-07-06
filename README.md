@@ -10,6 +10,8 @@ If you type the right values, it will alert you about that.
 
 After some ship sinks, the game will end, and the application will tell you the ship that sank and how many missiles you used.
 
+The game language is brazilian portuguese.
+
 Developer mode:
 If you type in the directions (17, 17) in the prompt, you will be to see the locations of the ships.
 
@@ -27,6 +29,8 @@ A cada rodada, você digita um valor para os eixos X e Y, e depois o programa ve
 Se você digitou os valores corretos, ele vai te avisar que acertou o alvo.
 
 Depois de algum navio afundar, o jogo acaba e ele diz qual navio você afundou e quantos torpedos você usou.
+
+O idioma da interface é o português brasileiro.
 
 Modo de desenvolvedor: 
 Se você digitar as posições (17, 17) o jogo te deixa ver as localizações dos navios.
