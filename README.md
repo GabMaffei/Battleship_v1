@@ -17,7 +17,7 @@ If you type in the directions (17, 17) in the prompt, you will be to see the loc
 
 Portuguese:
 
-# Batalha naval
+# Batalha naval v1
 
 Este é um jogo de Batalha Naval simples, sem interface gráfica, feito com C++, usando apenas variáveis simples, sem nenhum tipo de vetor ou matriz.
 
